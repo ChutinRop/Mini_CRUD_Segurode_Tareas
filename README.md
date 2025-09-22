@@ -1,7 +1,3 @@
-Aquí tienes un **README** listo para presentar tu mini CRUD de tareas seguro, con toda la información organizada y profesional:
-
----
-
 # Mini CRUD Seguro de Tareas
 
 ## 🎯 Objetivo
@@ -146,9 +142,3 @@ Construir una aplicación Full-Stack completa (NestJS + React) que permita la ge
 
 * Capturas de la pestaña **Network** mostrando peticiones `POST`, `PATCH`, y `DELETE`.
 * Pruebas de login, creación, actualización y eliminación de tareas.
-
----
-
-Si quieres, puedo hacer una **versión más visual del README**, con capturas de pantalla simuladas de Network y ejemplo de la UI, que queda más profesional para entregar.
-
-¿Quieres que haga esa versión?
